@@ -121,7 +121,9 @@ h2 {
 }
 
 h2.alt {
-    color: #888;
+    color: white;
+    font-weight: 700;
+    background-color: rgba(255, 99, 71, 0.829);
 }
 
 h2.alt strong {
@@ -145,7 +147,7 @@ footer {
 }
 
 strong, b {
-    font-weight: 300;
+    font-weight: 400;
     color: #666;
 }
 
